@@ -1,1 +1,1 @@
-React App for movie search from database
+React App for movie search 
